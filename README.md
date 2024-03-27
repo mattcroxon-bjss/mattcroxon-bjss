@@ -1,4 +1,4 @@
-👋 Hi, I’m Matt Croxon, a Technical Architet at BJSS 
+👋 Hi, I’m Matt Croxon, a Technical Architect at BJSS 
 
 👀 I’m interested in
 
